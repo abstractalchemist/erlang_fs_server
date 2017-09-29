@@ -1,0 +1,3 @@
+-name erlang_fs_server@127.0.0.1
+-setcookie erlang_fs_server
+-heart
